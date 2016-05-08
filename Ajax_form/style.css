@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	min-width: 100%;
+}
+
+#sendForm {
+	background-color: #989898;
+	width: 310px;
+	margin: 25% auto;
+}
+
+#sendForm input {
+	margin: 10px;
+	padding: 15px;
+	width: 255px;
+}
+
+#sendForm .submit {
+	width: 93%;
+}
